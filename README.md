@@ -29,7 +29,7 @@
       - PassengerId.
       - Cabin.
       - Name.
-   - **A high Missing Values that we cannot drop**
+   - **A high Missing Values that we cannot drop.**
 
 ## Filtering & Cleaning Data:
       - **We have 3 High Cardinality columns:**
@@ -38,9 +38,9 @@
       - **Name:** and we can rid of this column cause it won't be usefull to us.
    
    - **Dealing with Missing Values:**
-      - **Age Column:** In Age column we filled the missing values with age.mean()
-      - **In Other numerical columns:** We filled the missing values with zero
-      - **In Categorical columns:** We filled the missing values with 'Missing'
+      - **Age Column:** In Age column we filled the missing values with age.mean().
+      - **In Other numerical columns:** We filled the missing values with zero.
+      - **In Categorical columns:** We filled the missing values with 'Missing'.
   
   - **Normalizing Data:**
       - Extracting the PassengerId column cause we don't want to change anything in it.
