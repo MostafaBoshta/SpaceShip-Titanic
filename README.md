@@ -33,14 +33,14 @@
 
 ## Filtering & Cleaning Data:
       - **We have 3 High Cardinality columns:**
-      - PassengerId: our idintfier so we can't do anything with this column.
-      - Cabin: it's high because we it contains 3 informations deck/num/side so we have to split it to 3 columns deck , num , side and because num is unique we can cancel it so we have 2 new columns deck and side and get rid of cabin column.
-      - Name: and we can rid of this column cause it won't be usefull to us.
+      - **PassengerId:** our idintfier so we can't do anything with this column.
+      - **Cabin:** it's high because we it contains 3 informations deck/num/side so we have to split it to 3 columns deck , num , side and because num is unique we can cancel it so we have 2 new columns deck and side and get rid of cabin column.
+      - **Name:** and we can rid of this column cause it won't be usefull to us.
    
    - **Dealing with Missing Values:**
-      - Age Column: In Age column we filled the missing values with age.mean()
-      - In Other numerical columns: We filled the missing values with zero
-      - In Categorical columns: We filled the missing values with 'Missing'
+      - **Age Column:** In Age column we filled the missing values with age.mean()
+      - **In Other numerical columns:** We filled the missing values with zero
+      - **In Categorical columns:** We filled the missing values with 'Missing'
   
   - **Normalizing Data:**
       - Extracting the PassengerId column cause we don't want to change anything in it.
