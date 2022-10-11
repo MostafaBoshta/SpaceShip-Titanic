@@ -49,7 +49,7 @@
       
 ## Machine Learning Algorithm:
    **In Machine Learning I used Random Forest Cassifier with estimators number 500  and random state of 42.
-   I reached an accuracy of 79.3% on the training data.
+   I reached an accuracy of 79.3% on the training data.**
    
 ## Test File:
-   **In Test file I used the same approach used in cleaning train data and then used the model to predict the state of the passenger. 
+   **In Test file I used the same approach used in cleaning train data and then used the model to predict the state of the passenger.** 
