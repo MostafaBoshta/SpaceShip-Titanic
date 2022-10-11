@@ -19,12 +19,8 @@
  - Name - The first and last names of the passenger.
  - Transported - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
  
-## <details>
-           <summary>Step 1: Exploratory Data Analysis (EDA).</summary>
-           <p>
-           I used a new method to explore the dataset called Profiling report. It's used to find the error in the data and a description of each column.
-           ![](https://miro.medium.com/max/720/1*ZkWNyuiG40yNYPMWg1kkKA.gif)
+## Step 1: Exploratory Data Analysis (EDA).
+ I used a new method to explore the dataset called Profiling report. It's used to find the error in the data and a description of each column.
+ ![](https://miro.medium.com/max/720/1*ZkWNyuiG40yNYPMWg1kkKA.gif)
            
-           </p>
-  </details>
- 
+      
