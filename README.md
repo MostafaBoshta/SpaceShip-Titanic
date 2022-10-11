@@ -15,7 +15,7 @@
  - **Destination** - The planet the passenger will be debarking to.
  - **Age** - The age of the passenger.
  - **VIP** - Whether the passenger has paid for special VIP service during the voyage.
- - RoomService, FoodCourt, ShoppingMall, Spa, VRDeck - Amount the passenger has billed at each of the Spaceship Titanic's many luxury amenities.
+ - **RoomService, FoodCourt, ShoppingMall, Spa, VRDeck** - Amount the passenger has billed at each of the Spaceship Titanic's many luxury amenities.
  - **Name** - The first and last names of the passenger.
  - **Transported** - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
  
